@@ -1,0 +1,57 @@
+Hello New BLockchain--Devil.
+Start a new journey in the field of cryptography in Blockchain..
+________________________________________________________________
+________________________________________________________________
+
+In this we start a cryptoGraphy content....
+
+-Introduction
+--Types of Cryptography
+--Data Encryption Standard (DES)
+--Advanced Encryption Standard (AES)
+--Public Key Cryptography Algorithms and RSA
+--Cryptology, Cryptography and Cryptanalysis
+--Common Used Cryptography Techniques
+--Data Integrity in Cryptography
+--Important Difference b/w topics of Cryptography
+
+--Introduction
+---Introduction to Cryptography
+---History of Cryptography
+---Cryptography Principles
+---Cryptography and its types
+---Advantages and Disadvantages of Cryptography
+---Applications of Cryptography
+---What is Cryptosystem?
+---Components of Cryptosystem
+---Attacks on CryptoSystem
+
+---Types of Cryptography
+
+----Symmetric Key Cryptography
+-----Stream Cipher
+-----Block Cipher
+
+-----Substitution techniques
+
+-------Ceaser Cipher
+-------MonoAlphabetic Cipher
+-------Playfair Cipher
+-------Hill Cipher
+-------Polyalphabetic Cipher
+-------One-Time Pad
+
+----Transposition Techniques
+
+------Rail Fence Cipher
+------Columnar transposition
+
+---Steganography
+
+---Asymmetric Key Cryptography
+
+----Rivest-Shamir-Adelman (RSA)
+----Diffie-Hellman key exchange
+----Digital Signature Standard (DSS)
+
+---Hash Functions
